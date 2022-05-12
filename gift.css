@@ -1,0 +1,34 @@
+body{
+    background-color: #faf2f2;
+}
+
+/*----------------------------- Navbar ----------------------------------*/
+a{
+    font-family: 'Actor';
+    font-size:24px;
+}
+
+/*-------------------------------- Body ---------------------------------*/
+h2{
+    font-family: 'Gentium Basic';
+    font-size: 48px;
+}
+h3{
+    font-family:'Rosario';
+    font-size: 36px;
+} 
+.warning{
+    background-color: rgba(211, 150, 19, 0.788);
+    color: #fff;
+}
+.pic{
+    margin-top: -50%;
+}
+h4{
+    font-family: 'Gentium Basic';
+    font-size: 48px;
+    color: #fff;
+}
+
+
+

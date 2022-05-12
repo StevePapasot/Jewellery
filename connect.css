@@ -1,0 +1,40 @@
+body{
+    background-color: #faf2f2;
+}
+
+/*----------------------------- Navbar ----------------------------------*/
+a{
+    font-family: 'Actor';
+    font-size:24px;
+}
+.bod{
+    height: 300px;
+}
+/*--------------------------------- Footer ------------------------------------*/
+
+/*--2/3--*/
+.black{
+
+    height: 605px;
+}
+.black h1{
+    letter-spacing: 0.9rem;
+    font-size: 94px;
+}
+.black h4{
+    font-family: 'Gentium Basic';
+    font-size: 36px;
+    color: #000;
+}
+.black a{
+    font-family: 'Source Sans Pro';
+    font-size: 24px;
+    color: #000;
+}
+.bllink{
+    margin-top: 9.5%;
+}
+.logo{
+    width:52px;
+}
+
